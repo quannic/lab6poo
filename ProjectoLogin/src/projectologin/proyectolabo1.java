@@ -1,5 +1,4 @@
 // Joel Seura - RUT: 21.556.232-8
-//Javier Vera M. 21.697.880-3
 
 package projectologin;
 
