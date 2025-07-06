@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-//Javier Vera M. 21.697.880-3
 package gui;
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
@@ -17,7 +16,7 @@ public class VentanaCalculadora extends JFrame {
 
     public VentanaCalculadora() {
         setTitle("Figura Geométrica");
-        setSize(300, 360);
+        setSize(310, 370);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         setResizable(false);
